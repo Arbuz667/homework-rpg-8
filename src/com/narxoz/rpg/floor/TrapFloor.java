@@ -16,6 +16,7 @@ public class TrapFloor extends TowerFloor {
         this.hasPoisonDarts = hasPoisonDarts;
     }
 
+
     @Override
     protected String getFloorName() { return floorName; }
 
