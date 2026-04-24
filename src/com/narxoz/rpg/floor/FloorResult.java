@@ -1,8 +1,5 @@
 package com.narxoz.rpg.floor;
 
-/**
- * Holds the outcome of exploring a single tower floor.
- */
 public class FloorResult {
 
     private final boolean cleared;
